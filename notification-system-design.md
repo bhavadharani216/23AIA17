@@ -1,7 +1,11 @@
 # Notification System Design
 
 
-
+## Satge 2
+```
+If the data volume is increased, it may face some storage issue and data collapse, also missing data are also will happens
+use a data as effecient and protective.
+```
 
 ## Stage 3
 
