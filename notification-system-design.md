@@ -4,6 +4,7 @@
 
 
 ## Stage 3
+
 ```
 SELECT * FROM notifications
 WHERE studentID= 1042  AND isRead = false
@@ -15,5 +16,10 @@ GROUP BY notificationType;
 
 ```
 Use a data Base that able to contain a 5,000,000 . Use a effective methods to push notifications to students .
- 
+```
+
+## Stage 5 
+
+```
+Before sending mail , ensure that , there is a 5,000,000 students mail id is correct and also ensure that everyone email id is present.
 ```
