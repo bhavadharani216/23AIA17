@@ -2,12 +2,12 @@
 
 
 
-```
-Stage 3
+
+## Stage 3
 ```
 SELECT * FROM notifications
 WHERE studentID= 1042  AND isRead = false
 ORDER BY createdAt DESC
 GROUP BY notificationType;
- 
+ ```
  
